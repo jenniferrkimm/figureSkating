@@ -1,4 +1,3 @@
-# figureSkating
 Welcome to my first game!
 ------------------------
 HOW TO COMPILE AND RUN
