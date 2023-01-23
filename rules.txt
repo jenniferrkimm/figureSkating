@@ -1,0 +1,32 @@
+
+
+You should eat and exercise before competing.
+You can compete without doing these, but your final score won't be as high.
+Each task within the eat and gym menu options requires completion of an activity.
+Getting the activity right increases points; getting it wrong decreases or doesn't increase points as much.
+
+EAT:
+    - You're given the option to go to a restaruant or make your own food.
+    - It's recommended to order everything at the restaurant (except for the odd item) AND make your own food, as doing so correctly will increase points.
+    - You will have enough money to buy everything unless you repeatedly order the odd item or buy an unwanted ingredient an unusual amount of times.
+    - You can only make your own food and order each food (other than the odd food, see above) at the restaurant ONCE per play.
+    - You earn focus, confidence, and energy points from food, which are factored into your final score based on a multiplier. Money is not factored in the score.
+*side notes*
+    - There are 3 food txt files with different food scenarios. 
+    - Each time you play, it's randomized which txt file is read (i.e you'll get a random set of foods).
+    - Each food has different focus & energy point values and different prices associated with them. 
+    - You can only earn confidence points by making your own food.
+
+GYM:
+    - At the gym, you will train by running. 
+    - You earn preparation and health points from training, which are factored into your final score based on a multiplier.
+    - You can only train ONCE per play.
+
+COMPETE:
+    - You'll be given 3 rounds of patterns, & using the keypad (w a s d) you will "skate" the pattern.
+    - You start with 50 points, & each wrong move subtracts 1.
+    - You finish the game after round 3, & you can view your final results in out.txt.
+
+TRIVIA:
+    - There are 2 trivia sets (each with 10 questions) you can play for fun that don't factor into your final score.
+    - You can play trivia as many times as you want; each time you play, the question order is randomized.
