@@ -15,4 +15,5 @@ fFood.h, ffGame.h, fGym.h, fMap.h, Trivia.h, skaters.txt, rules.txt, generalSkat
 ------------------------
 ABOUT THIS PROJECT
 ------------------------
-This project simulates a figure skater's life at a competition and integrates tasks like eating, running, and competing through mini-games. Also, there is trivia relating to figure skating!
+This project simulates a figure skater's life at a competition and integrates tasks like eating, running, and competing through mini-games.
+Also, there is trivia relating to figure skating!
