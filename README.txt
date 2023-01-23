@@ -3,8 +3,8 @@ Welcome to my first game! This game uses classes, menu options, vectors, arrays,
 ------------------------
 HOW TO COMPILE AND RUN
 ------------------------
-Compile: g++ -std=c++17 ffDriver.cpp fFood.cpp ffGame.cpp fGym.cpp fMap.cpp Trivia.cpp
-Run: ./a.out
+Compile:      g++ -std=c++17 ffDriver.cpp fFood.cpp ffGame.cpp fGym.cpp fMap.cpp Trivia.cpp
+Run:          ./a.out
 
 ------------------------
 DEPENDENCIES
