@@ -9,7 +9,8 @@ Run: ./a.out
 ------------------------
 DEPENDENCIES
 ------------------------
-fFood.h, ffGame.h, fGym.h, fMap.h, Trivia.h, skaters.txt, rules.txt, generalSkating.txt, Food1.txt, Food2.txt, Food3.txt must be in the same directory as the cpp files in order to compile.
+The following must be in the same directory as the cpp files in order to compile:
+fFood.h, ffGame.h, fGym.h, fMap.h, Trivia.h, skaters.txt, rules.txt, generalSkating.txt, Food1.txt, Food2.txt, Food3.txt
 
 ------------------------
 ABOUT THIS PROJECT
